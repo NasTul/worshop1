@@ -74,7 +74,7 @@ public class StudentMark
             
         }
         
-        
+        System.out.print("some thing");
         
         
     
