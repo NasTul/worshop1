@@ -74,7 +74,6 @@ public class StudentMark
             
         }
         
-        System.out.println(Math.abs(-1));
         
         
         
